@@ -23,7 +23,7 @@
 <a href="https://twitter.com/dora_sainath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dora_sainath" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/durga sainath dora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durga sainath dora" height="30" width="40" /></a>
 <a href="https://instagram.com/durga_sainath189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="durga_sainath189" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/srm295" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srm295" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/srm_295" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srm295" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/durgasainathdora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="durgasainathdora" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/durgasainath_dora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="durgasainath_dora" height="30" width="40" /></a>
 </p>
