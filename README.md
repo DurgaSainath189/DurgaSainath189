@@ -7,8 +7,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgasainath189&label=Profile%20views&color=0e75b6&style=flat" alt="durgasainath189" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dora_sainath" target="blank"><img src="https://img.shields.io/twitter/follow/dora_sainath?logo=twitter&style=for-the-badge" alt="dora_sainath" /></a> </p>
-
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Chatting application<br>🌱 I’m currently learning Flutter, Dart<br>👨‍💻 My PortFolio https://durgasainath189.github.io/PortFolio/<br>💬 Ask me about MERN stack,HTML,CSS,JavaScript<br>📫 How to reach me durgasainathdora@gmail.com<br>⚡ Fun fact I am Crazy Guy
 
