@@ -1,9 +1,8 @@
 [![MasterHead](https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-29/9952f320-49c4-11eb-8e93-835c7725694d.jpg)](https://DurgaSainath189.io)
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Durga Sainath </h1>
-<h3 align="center">A passionate web developer and Android Developer from India</h3>
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hey%2C+I'm+Durga Sainath.!+%F0%9F%8E%86" alt="Typing SVG" />
+</h1>
+<h3 align="center">A passionate Web developer and Android Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgasainath189&label=Profile%20views&color=0e75b6&style=flat" alt="durgasainath189" /> </p>
 
